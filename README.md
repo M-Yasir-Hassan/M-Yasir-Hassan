@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">hey there 👋I am Yasir Hassan</h1>
+<h1 align="center">Hey there 👋I am Yasir Hassan</h1>
 
 ###
 
