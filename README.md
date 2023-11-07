@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Yasir Hassan from Pakistan<br><br>- 🔭 I’m working asa frontend developer.<br>- 📚 I'm currently learning MERN Stack, Flutter and Artificial Intelligence<br>- ⚡ In my free time, I Love to play Games</p>
+<p align="left">I'm Yasir Hassan from Pakistan<br><br>- 🔭 I’m working as a frontend developer.<br>- 📚 I'm currently learning MERN Stack, Flutter and Artificial Intelligence<br>- ⚡ In my free time, I Love to play Games</p>
 
 ###
 
