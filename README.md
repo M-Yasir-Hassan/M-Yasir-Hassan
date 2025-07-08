@@ -2,43 +2,49 @@
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
 </div>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=M-Yasir-Hassan.M-Yasir-Hassan&right_color=forestgreen"  />
 </div>
 
-###
+<h1 align="center">👋 Hi, I’m Yasir Hassan</h1>
 
-<h1 align="center">Hey there 👋I am Yasir Hassan</h1>
+<p align="center">
+  A Computer Science graduate passionate about software engineering, clean architecture, and backend development. 
+  I love solving real-world problems using code, data, and design principles.
+</p>
 
-###
+---
 
-<p align="left">A passionate Web Developer with Strong Interest in MERN Stack and Wordpress.</p>
+### 👨‍💻 About Me
 
-###
+- 🎓 CS Graduate | Passionate Software Developer  
+- 👨‍💻 Strong grip on **Object-Oriented Programming**, **Data Structures**, and **Design Patterns**  
+- 🗃️ Familiar with **relational** and **NoSQL** databases – MySQL, MongoDB  
+- 🛠 Practiced in **Agile development**, version control (Git), and Software Engineering best practices  
+- 🔍 Learning new technologies like **AI** and **Flutter** for cross-platform development  
+- 🎮 Gaming helps me recharge and sharpen reflexes 🚀  
 
-<h3 align="center">👩‍💻  About Me</h3>
+---
 
-###
+### 🧠 Core Strengths
 
-<p align="left">I'm Yasir Hassan from Pakistan<br><br>- 🔭 I’m working as a MERN Stack developer.<br>- 📚 I'm currently learning Flutter and Artificial Intelligence<br>- ⚡ In my free time, I Love to play Games</p>
+- ✔️ OOP Principles & SOLID Design  
+- ✔️ DSA for efficient coding  
+- ✔️ Software Engineering Practices & Documentation  
+- ✔️ MVC, Factory, Singleton, Observer Patterns  
+- ✔️ SQL & NoSQL Queries and Schema Design  
+- ✔️ REST APIs using Node.js / Express  
+- ✔️ Git / GitHub / CI basics  
 
-###
+---
 
-<h3 align="center">🛠 Language and tools</h3>
-
+### 🛠️ Languages & Tools
 ###
 
 <div align="left">
