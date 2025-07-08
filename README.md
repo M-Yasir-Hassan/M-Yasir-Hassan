@@ -21,18 +21,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 - 🎓 CS Graduate | Passionate Software Developer  
 - 👨‍💻 Strong grip on **Object-Oriented Programming**, **Data Structures**, and **Design Patterns**  
 - 🗃️ Familiar with **relational** and **NoSQL** databases – MySQL, MongoDB  
 - 🛠 Practiced in **Agile development**, version control (Git), and Software Engineering best practices  
 - 🔍 Learning new technologies like **AI** and **Flutter** for cross-platform development  
-- 🎮 Gaming helps me recharge and sharpen reflexes 🚀  
+- 🎮 Gaming helps me recharge and sharpen reflexes
 
 ---
 
-### 🧠 Core Strengths
+###  Core Strengths
 
 - ✔️ OOP Principles & SOLID Design  
 - ✔️ DSA for efficient coding  
